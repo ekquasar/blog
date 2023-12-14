@@ -4,6 +4,7 @@
 contact: Eric Kalosa-Kenyon <ekquasar@cisco.com>
 audience: developers, devops, application developers
 keywords: observability, monitoring, metrics, traces, logs, kubernetes, docker, helm, opentelemetry, cisco cloud observability, cco
+tested on: Dec 14, 2023
 ```
 
 # 1. Introduction
