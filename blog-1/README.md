@@ -258,7 +258,7 @@ kubectl rollout \
 `emailservice`, `frontendproxy`, and `otel-collector` pods. There is some known
 issue with the demo app where it stops sending metrics if it loses connection to
 the collector for a moment. ([source in CNCF slack discussion here](https://cloud-native.slack.com/archives/C03B4CWV4DA/p1702579812776319?thread_ts=1702517249.828069&cid=C03B4CWV4DA))
-- A succefully patched ConfigMap is available in the Appendix below.
+- A successfully patched ConfigMap is available in the Appendix below.
 
 ## 3c. Check the collector logs for the oauth2 extension
 Get the otel collector pod name:
