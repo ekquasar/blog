@@ -13,6 +13,10 @@ tested on: Dec 14, 2023
 
 ^ excerpted from the [Cisco Cloud Observability docs](https://docs.appdynamics.com/fso/cloud-native-app-obs/en/kubernetes-and-app-service-monitoring).
 
+![Decision tree](./img/decision-tree.png)
+
+^ exc. [COO docs](https://docs.appdynamics.com/fso/cloud-native-app-obs/en/application-performance-monitoring/monitor-applications-in-kubernetes#MonitorApplicationsinKubernetes-GetStarted)
+
 In this post, I'll show you how to go from nothing running on your laptop to a
 fully instrumented demo app exporting observability data to Cisco's Cloud
 Observability (CCO) platform.
