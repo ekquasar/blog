@@ -296,7 +296,7 @@ You should see logs indicating the oauth2client extension has started:
 ^ notice the `oauth2client` extension has started.
 
 ## 3d. Check out your data in CCO
-Navigate to https://`<your tenant>`.observe.appdynamics.com/ui/observe and click
+Navigate to https://`<your friendly tenant name>`.observe.appdynamics.com/ui/observe and click
 around, you should be able to find your data:
 
 ![CCO shows the demo app](./img/cco-ui.png)
